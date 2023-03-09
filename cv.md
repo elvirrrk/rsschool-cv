@@ -1,5 +1,5 @@
 # Elvira Fatin
----
+===
 ## Contacts
 - **Phone:** +375-44-489-95-82
 - **E-mail:** <elvirrrk@gmail.com>
@@ -24,7 +24,9 @@ _2022 April - 2022 June_
 - JavaScript Basics(Fundamentals)
 - Git
 ## Code example
-
+From ...
+```
+```
 ## Education
 Passed the pool from School 21 from Sberbank: working in different teams, 
 creating two console games ("Ping Pong", "Conway's Game of Life").
