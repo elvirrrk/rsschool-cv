@@ -1,11 +1,9 @@
 # rsschool-cv
 ## Elvira Fatin
----
 ### Contacts
 * E-mail: [elvirrrk@gmail.com](elvirrrk@gmail.com)
 * GitHub: [elvirrrk](https://github.com/elvirrrk)
 * Telegram [Elvira Fatin](https://t.me/elvyix)
----
 ### About me 
 Frontend Developer with commercial experience in React and TypeScript.\
 I maintain clean, readable code, learn quickly, and stay open to new technologies.\
